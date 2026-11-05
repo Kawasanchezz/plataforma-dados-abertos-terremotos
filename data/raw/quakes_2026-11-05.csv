@@ -1,0 +1,4 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-11-05T00:23:17.796Z,38.0156,30.0682,10,4.1,mb,31,58,1.271,1.18,us,us7000tw4z,2026-11-05T00:38:54.040Z,"10 km WSW of Dinar, Turkey",earthquake,4.79,1.933,0.174,9,reviewed,us,us
+2026-11-05T00:49:15.589Z,32.5065,94.1224,10,4.1,mb,25,106,8.64,0.77,us,us7000tw53,2026-11-05T01:03:27.040Z,"226 km ENE of Nagqu, China",earthquake,13.14,1.965,0.117,20,reviewed,us,us
+2026-11-05T01:07:21.383Z,60.171,-152.545,105.5,2.5,ml,74,61,0.2,0.6,ak,aka2026vwyznm,2026-11-05T01:11:36.172Z,"50 km WNW of Ninilchik, Alaska",earthquake,3.6,1.8131,0.4,48,automatic,ak,ak

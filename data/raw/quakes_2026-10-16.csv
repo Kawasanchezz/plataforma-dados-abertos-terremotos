@@ -1,0 +1,86 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-10-16T00:04:22.267Z,60.742,-151.271,67.5,3.1,ml,87,40,0.1,0.6,ak,aka2026ulylmf,2026-11-03T02:48:00.040Z,"5 km N of Nikiski, Alaska",earthquake,2.2,2.4094,0.1,61,reviewed,ak,ak
+2026-10-16T00:18:28.167Z,57.86,-154.352,59.5,2.7,ml,41,69,0.4,0.6,ak,aka2026ulyxqn,2026-11-03T02:50:13.040Z,"32 km N of Karluk, Alaska",earthquake,3.2,3.1517,0.2,29,reviewed,ak,ak
+2026-10-16T00:37:47.784Z,35.4822,99.5494,10,4.1,mb,21,91,3.407,0.43,us,us6000u2mc,2026-11-03T03:23:29.040Z,"198 km NW of Oula Xiuma, China",earthquake,7.88,1.928,0.134,15,reviewed,us,us
+2026-10-16T00:37:57.423Z,53.435,-165.1134,35,3,ml,13,255,0.76,0.24,us,us6000u2vh,2026-11-03T03:25:26.040Z,"89 km SSE of Akutan, Alaska",earthquake,5.61,2.022,0.128,8,reviewed,us,us
+2026-10-16T01:50:43.946Z,7.6067,-80.9683,10,4.4,mb,28,129,1.911,0.55,us,us6000u2me,2026-11-04T23:52:31.040Z,"12 km S of Tebario, Panama",earthquake,5.78,1.821,0.134,16,reviewed,us,us
+2026-10-16T02:05:30.352Z,65.795,-150.768,15,2.5,ml,29,45,0.5,0.7,ak,aka2026umcmmw,2026-10-16T20:05:00.823Z,"42 km NW of Rampart, Alaska",earthquake,2.6,2.3723,0.1,19,reviewed,ak,ak
+2026-10-16T02:08:08.824Z,51.397,178.862,56.3,2.5,ml,13,246,0.3,0.8,ak,aka2026umcove,2026-10-16T20:13:20.839Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,9.6,5.2434,0.1,9,reviewed,ak,ak
+2026-10-16T02:12:11.925Z,55.37,-158.153,7.3,3.4,ml,40,194,1,0.7,ak,aka2026umcroy,2026-11-04T23:55:44.040Z,"86 km SE of Perryville, Alaska",earthquake,4.8,2.5037,0.2,29,reviewed,ak,ak
+2026-10-16T02:14:27.223Z,45.4128,149.8389,107.591,4.3,mb,21,195,5.914,0.76,us,us6000u4e3,2026-11-05T00:02:40.040Z,"155 km E of Kuril’sk, Russia",earthquake,18.64,17.906,0.148,13,reviewed,us,us
+2026-10-16T02:42:20.576Z,55.705,-158.86,54.4,2.6,ml,12,285,0.4,0.5,ak,aka2026umdslj,2026-10-16T20:22:45.863Z,"29 km SE of Perryville, Alaska",earthquake,17.7,9.8291,0.2,6,reviewed,ak,ak
+2026-10-16T03:35:32.092Z,52.0153,157.133,135,6.9,mww,363,18,1.148,0.61,us,us6000u2mq,2026-11-05T02:27:24.732Z,"72 km NE of Ozernovskiy, Russia",earthquake,7.38,1.842,0.029,113,reviewed,us,us
+2026-10-16T03:57:19.728Z,21.652,142.9721,324.202,4.4,mb,61,71,5.467,0.53,us,us6000u2my,2026-11-05T02:31:28.040Z,"Mariana Islands region",earthquake,11.39,7.819,0.077,48,reviewed,us,us
+2026-10-16T04:42:40.890Z,13.934,-92.8623,10,4.7,mb,39,164,2.437,0.9,us,us6000u2n4,2026-10-16T04:56:50.040Z,"95 km SW of Brisas Barra de Suchiate, Mexico",earthquake,6.76,1.916,0.043,161,reviewed,us,us
+2026-10-16T05:22:28.183Z,7.7245,-81.2351,10,4.4,mb,37,129,1.991,0.85,us,us6000u2n7,2026-10-16T05:53:24.040Z,"8 km SSE of Guarumal, Panama",earthquake,7.74,1.504,0.074,53,reviewed,us,us
+2026-10-16T05:26:37.313Z,57.245,-155.585,67.5,3.4,ml,66,110,0.6,0.6,ak,aka2026umjevu,2026-10-19T22:15:56.996Z,"76 km WSW of Karluk, Alaska",earthquake,3.4,3.132,0.2,50,reviewed,ak,ak
+2026-10-16T05:42:02.928Z,53.919,-164.375,21.4,2.8,ml,19,217,0.6,0.4,ak,aka2026umjsgr,2026-10-19T22:21:38.717Z,"94 km ESE of Akutan, Alaska",earthquake,9.6,4.189,0.1,13,reviewed,ak,ak
+2026-10-16T06:35:39.844Z,57.655,-155.782,5.6,3.2,ml,60,88,0.3,0.6,ak,aka2026umlmsg,2026-10-19T23:13:19.039Z,"79 km W of Karluk, Alaska",earthquake,3.1,1.7145,0.2,45,reviewed,ak,ak
+2026-10-16T06:37:49.620Z,42.402833333333,-111.41116666667,-2.51,2.93,ml,16,138,0.3974,0.17,uu,uu80160196,2026-10-22T06:00:18.671Z,"7 km W of Bennington, Idaho",earthquake,0.46,1.34,0.17169797300875,17,reviewed,uu,uu
+2026-10-16T06:44:46.321Z,57.676,-155.777,2.9,3.1,ml,61,90,0.3,0.7,ak,aka2026umluqb,2026-10-19T23:20:17.150Z,"79 km W of Karluk, Alaska",earthquake,2.8,1.5213,0.2,45,reviewed,ak,ak
+2026-10-16T07:41:09.727Z,61,-148.793,19.3,2.5,ml,70,55,0.3,0.8,ak,aka2026umnrna,2026-10-19T23:31:23.512Z,"21 km ENE of Girdwood, Alaska",earthquake,2.2,1.3277,0.1,45,reviewed,ak,ak
+2026-10-16T07:47:38.402Z,52.435,-170.2724,70.728,2.8,ml,14,207,0.416,0.3,us,us6000u3jf,2026-10-24T07:29:06.040Z,"110 km WSW of Nikolski, Alaska",earthquake,11.53,10.4,0.115,10,reviewed,us,us
+2026-10-16T08:25:02.887Z,37.6933,-88.437,2.923,2.6,mb_lg,23,55,0.649,0.54,us,us6000u2ns,2026-10-24T07:53:14.040Z,"9 km WSW of Equality, Illinois",earthquake,2.1,10.634,0.12,18,reviewed,us,us
+2026-10-16T08:51:59.121Z,28.583,-100.124,8.2109,2.6,ml,15,121,0.2,0.5,tx,tx2026ujitxo,2026-10-24T07:35:30.040Z,"19 km ENE of El Indio, Texas",earthquake,3.0111265996914,2.2979661405212,0.2,14,reviewed,tx,tx
+2026-10-16T08:55:33.291Z,27.6891,57.2959,10,4.5,mb,17,156,2.903,0.84,us,us6000u2nw,2026-10-24T07:37:25.040Z,"65 km NNE of Mīnāb, Iran",earthquake,8.69,1.909,0.14,15,reviewed,us,us
+2026-10-16T08:59:30.109Z,27.6863,57.3424,10,4.5,mb,23,170,2.915,0.77,us,us6000u4e9,2026-10-24T07:41:42.040Z,"66 km NNE of Mīnāb, Iran",earthquake,14.02,1.92,0.118,21,reviewed,us,us
+2026-10-16T09:01:08.413Z,-22.2174,-179.6426,593.722,4.4,mb,32,122,4.949,0.63,us,us6000u2nz,2026-10-16T12:35:14.040Z,"south of the Fiji Islands",earthquake,16.67,10.887,0.101,28,reviewed,us,us
+2026-10-16T09:04:28.861Z,-55.2392,-126.4961,10,4.8,mb,18,128,29.622,0.54,us,us6000u2p5,2026-10-16T10:06:45.040Z,"southern East Pacific Rise",earthquake,11.86,1.817,0.139,16,reviewed,us,us
+2026-10-16T09:13:44.909Z,7.8392,126.799,73.712,4.9,mb,81,94,1.431,0.66,us,us6000u2p2,2026-10-16T09:34:45.040Z,"31 km ENE of Kinablangan, Philippines",earthquake,3.37,7.273,0.06,87,reviewed,us,us
+2026-10-16T09:52:17.006Z,51.946,-169.379,3.6,3.2,ml,19,237,0.9,0.4,ak,aka2026umsbpy,2026-10-20T19:52:51.485Z,"115 km SSW of Nikolski, Alaska",earthquake,9.5,5.1727,0.1,12,reviewed,ak,ak
+2026-10-16T10:46:48.569Z,51.4534,-115.4536,8.336,4,mb,42,81,1.323,0.52,us,us6000u2pb,2026-10-18T16:40:59.987Z,"31 km NNE of Banff, Canada",earthquake,5.27,6.724,0.126,17,reviewed,us,us
+2026-10-16T11:04:26.136Z,62,-148.814,5,2.8,ml,90,26,0.2,0.9,ak,aka2026umulqe,2026-10-20T20:49:09.287Z,"24 km N of Sutton-Alpine, Alaska",earthquake,1.6,0,0.1,65,reviewed,ak,ak
+2026-10-16T11:11:30.505Z,67.377,-145.313,8.3,2.6,ml,38,59,0.3,0.8,ak,aka2026umurxi,2026-10-20T21:00:40.389Z,"62 km NE of Venetie, Alaska",earthquake,3.2,2.3062,0.2,25,reviewed,ak,ak
+2026-10-16T11:39:44.878Z,15.2777,-92.7881,108.908,4.8,mb,62,132,1.179,1.16,us,us6000u2ph,2026-10-16T11:52:45.040Z,"7 km WSW of Soconusco, Mexico",earthquake,7.66,7.806,0.031,328,reviewed,us,us
+2026-10-16T11:57:19.839Z,12.328,144.1189,10,4.9,mb,59,70,3.314,0.54,us,us6000u2pl,2026-10-19T06:03:51.280Z,"119 km SSW of Merizo Village, Guam",earthquake,9.25,1.847,0.046,150,reviewed,us,us
+2026-10-16T12:01:09.030Z,18.950666666667,-64.374333333333,18.89,2.8,md,5,304,0.4588,0.08,pr,pr71536903,2026-10-16T12:41:17.190Z,"81 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,0.87,31.61,0.095531744840136,4,reviewed,pr,pr
+2026-10-16T12:18:25.421Z,6.0268,125.7789,10,4.7,mb,50,76,1.055,1.04,us,us6000u2pp,2026-10-16T13:08:51.040Z,"10 km SE of Lamitan, Philippines",earthquake,10.19,1.86,0.085,42,reviewed,us,us
+2026-10-16T12:37:21.526Z,59.378,-153.579,116.4,2.7,ml,97,41,0.1,0.7,ak,aka2026umxofr,2026-10-20T22:39:43.966Z,"54 km SSE of Pedro Bay, Alaska",earthquake,3.5,1.5434,0.4,60,reviewed,ak,ak
+2026-10-16T13:02:41.388Z,6.8957,-77.434,29.966,4.4,mb,18,57,2.018,1.15,us,us6000u2pw,2026-10-24T15:15:02.040Z,"42 km ESE of Juradó, Colombia",earthquake,6.65,5.635,0.204,7,reviewed,us,us
+2026-10-16T13:09:10.580Z,28.611,-100.047,5.757,2.6,ml,12,121,0.2,0.4,tx,tx2026ujrhoh,2026-10-24T15:17:53.040Z,"20 km WNW of Carrizo Springs, Texas",earthquake,2.9725044941427,1.5911508730588,0.1,6,reviewed,tx,tx
+2026-10-16T13:11:01.960Z,51.4221,-176.7677,35,2.9,ml,20,213,0.448,0.66,us,us6000u3qj,2026-10-24T15:21:09.040Z,"51 km S of Adak, Alaska",earthquake,3.87,2.011,0.091,16,reviewed,us,us
+2026-10-16T13:13:58.124Z,51.282,-176.582,25.9,2.5,ml,17,243,0.6,0.2,ak,aka2026umyucv,2026-10-20T22:42:54.786Z,"65 km S of Adak, Alaska",earthquake,11.8,7.2617,0.1,12,reviewed,ak,ak
+2026-10-16T13:28:17.050Z,37.445666666667,-118.83133333333,1.27,2.76,md,36,77,0.1386,0.09,nc,nc75450451,2026-10-26T06:56:09.823Z,"19 km SW of Toms Place, CA",earthquake,0.21,1.21,0.146,42,reviewed,nc,nc
+2026-10-16T14:09:54.343Z,-49.7816,163.6559,10,4.9,mb,43,66,4.132,0.72,us,us6000u2q5,2026-10-24T15:24:39.040Z,"Auckland Islands, New Zealand region",earthquake,12.58,1.819,0.104,30,reviewed,us,us
+2026-10-16T14:14:07.572Z,6.9698,-77.3763,31.99,4.2,mb,14,168,1.992,1.04,us,us6000u4ei,2026-10-24T15:45:53.040Z,"45 km ESE of Juradó, Colombia",earthquake,9.46,7.602,0.215,6,reviewed,us,us
+2026-10-16T14:30:50.731Z,61.06,-159.112,15,2.6,ml,16,86,0.1,0.9,ak,aka2026unbitm,2026-10-21T20:17:10.298Z,"57 km S of Chuathbaluk, Alaska",earthquake,4,2.0058,0.3,8,reviewed,ak,ak
+2026-10-16T14:34:53.226Z,51.7736,178.4594,101.811,2.9,ml,15,243,0.172,0.21,us,us6000u3qw,2026-10-24T15:49:29.040Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,7.4,4.912,0.097,14,reviewed,us,us
+2026-10-16T14:35:58.760Z,18.973833333333,-65.1185,55.52,3.19,md,14,236,0.6369,0.26,pr,pr71536913,2026-10-16T15:28:41.000Z,"72 km NNW of Charlotte Amalie, U.S. Virgin Islands",earthquake,3.23,5.44,0.16031986308883,9,reviewed,pr,pr
+2026-10-16T14:49:43.136Z,61.474,-149.769,49.9,3.6,ml,170,33,0.2,1.2,ak,aka2026unbzcp,2026-10-18T17:03:00.448Z,"2 km NW of Knik, Alaska",earthquake,2,1.9992,0.2,120,reviewed,ak,ak
+2026-10-16T14:59:14.893Z,52.0108,-167.1111,10,2.8,ml,21,227,1.437,0.65,us,us6000u3s5,2026-10-24T15:52:42.040Z,"157 km SE of Nikolski, Alaska",earthquake,7.34,2.016,0.105,12,reviewed,us,us
+2026-10-16T15:06:35.204Z,-18.4509,-175.4778,256.904,4.5,mb,44,137,5.294,0.68,us,us6000u2qd,2026-10-24T15:55:09.040Z,"159 km W of Neiafu, Tonga",earthquake,14.13,6.466,0.086,41,reviewed,us,us
+2026-10-16T15:08:47.560Z,51.2717,159.2572,10,4.6,mb,39,135,1.794,0.91,us,us6000u2qf,2026-10-24T16:00:19.040Z,"193 km E of Ozernovskiy, Russia",earthquake,11.6,1.913,0.089,38,reviewed,us,us
+2026-10-16T15:27:40.400Z,61.761,-146.554,1.1,2.5,ml,70,35,0.6,0.8,ak,aka2026undgaz,2026-10-21T03:45:11.801Z,"28 km SSE of Nelchina, Alaska",earthquake,1.9,1.4191,0.2,49,reviewed,ak,ak
+2026-10-16T15:41:31.677Z,27.3739,52.5844,10,4.3,mb,31,72,4.053,0.54,us,us6000u2qj,2026-10-24T16:02:54.040Z,"35 km SW of Mohr, Iran",earthquake,4.75,1.928,0.129,17,reviewed,us,us
+2026-10-16T16:17:25.979Z,-5.4619,35.0134,10,4.6,mb,25,125,4.317,0.73,us,us6000u2qn,2026-10-24T16:05:56.040Z,"43 km N of Kilimatinde, Tanzania",earthquake,11.64,1.564,0.132,17,reviewed,us,us
+2026-10-16T16:25:59.288Z,1.2192,126.1814,39.402,4.3,mb,27,122,5.843,1.06,us,us6000u2rv,2026-10-24T16:11:20.040Z,"119 km ESE of Bitung, Indonesia",earthquake,11.41,7.099,0.138,17,reviewed,us,us
+2026-10-16T17:09:26.869Z,51.4088,-176.3873,35,2.7,ml,21,212,0.454,0.4,us,us6000u3sp,2026-10-23T14:51:08.040Z,"54 km SSE of Adak, Alaska",earthquake,4.29,2.004,0.085,18,reviewed,us,us
+2026-10-16T17:16:49.743Z,61.848,-151.218,72.8,2.6,ml,91,41,0.5,0.7,ak,aka2026ungwrc,2026-10-21T05:14:01.380Z,"18 km SSE of Skwentna, Alaska",earthquake,2.1,2.5512,0.2,49,reviewed,ak,ak
+2026-10-16T17:24:27.661Z,62.138,-150.427,49.8,3,ml,145,33,0.3,1,ak,aka2026unhdgy,2026-10-23T14:42:04.040Z,"22 km SSW of Trapper Creek, Alaska",earthquake,1.7,3.3294,0.2,103,reviewed,ak,ak
+2026-10-16T17:47:38.353Z,-7.1931,129.1949,169.517,4.4,mb,22,160,5.93,1.24,us,us6000u2s5,2026-10-23T14:28:27.040Z,"283 km ENE of Lospalos, Timor Leste",earthquake,9.09,10.775,0.114,22,reviewed,us,us
+2026-10-16T18:58:37.134Z,55.129,-160.783,72,2.5,ml,13,216,0.6,0.3,ak,aka2026unkgqx,2026-10-21T05:40:10.805Z,"29 km SW of Sand Point, Alaska",earthquake,17.4,9.7156,0.2,9,reviewed,ak,ak
+2026-10-16T19:09:43.871Z,56.266,-148.341,18.202,3.6,ml,70,188,2.773,1.08,us,us6000u2v6,2026-10-21T05:42:39.659Z,"282 km ESE of Chiniak, Alaska",earthquake,25.37,9.866,0.048,56,reviewed,us,us
+2026-10-16T19:34:10.597Z,1.2955,-85.2725,10,5.2,mww,129,74,6.68,0.59,us,us6000u2v8,2026-10-16T21:38:27.040Z,"off the coast of Ecuador",earthquake,8.33,1.689,0.047,43,reviewed,us,us
+2026-10-16T19:45:30.593Z,56.564,-154.837,32.6,2.5,ml,23,227,0.4,0.7,ak,aka2026unlvuv,2026-10-21T15:57:42.967Z,"58 km SW of Akhiok, Alaska",earthquake,9.5,7.5201,0.1,12,reviewed,ak,ak
+2026-10-16T19:51:25.987Z,61.585,-146.388,12.7,2.7,ml,82,33,0.5,0.9,ak,aka2026unmasv,2026-10-21T16:08:35.870Z,"49 km SSE of Nelchina, Alaska",earthquake,1.8,1.4052,0.1,59,reviewed,ak,ak
+2026-10-16T19:59:15.855Z,56.335,-149.397,5,3.3,ml,52,257,2.3,0.5,ak,aka2026unmgrm,2026-10-21T16:09:34.937Z,"225 km SE of Chiniak, Alaska",earthquake,8.5,0,0.1,30,reviewed,ak,ak
+2026-10-16T20:11:11.842Z,28.608,-100.086,7.6116,2.6,ml,12,118,0.2,0.4,tx,tx2026ukfhex,2026-10-23T17:00:41.626Z,"24 km WNW of Carrizo Springs, Texas",earthquake,3.8965559350538,1.5344463180194,0.1,8,reviewed,tx,tx
+2026-10-16T20:40:44.314Z,51.279,-176.957,29.3,2.5,ml,16,260,0.5,0.5,ak,aka2026unnrni,2026-10-21T18:11:19.265Z,"69 km SSW of Adak, Alaska",earthquake,11.7,6.1916,0.1,13,reviewed,ak,ak
+2026-10-16T20:45:05.911Z,52.373,-166.779,16.7,2.8,ml,20,267,1.2,0.3,ak,aka2026unnvke,2026-10-21T18:26:51.679Z,"154 km ESE of Nikolski, Alaska",earthquake,14.1,11.4153,0.1,9,reviewed,ak,ak
+2026-10-16T20:58:18.940Z,49.907,-177.169,4.2,3.1,ml,18,267,1.9,0.7,ak,aka2026unogua,2026-10-21T19:07:59.325Z,"222 km S of Adak, Alaska",earthquake,21.3,15.6948,0.2,12,reviewed,ak,ak
+2026-10-16T21:15:11.342Z,31.646,-104.429,6.3562,2.9,ml,39,72,0,0.1,tx,tx2026ukhkit,2026-11-03T03:29:59.040Z,"58 km S of Whites City, New Mexico",earthquake,0.99689171409367,0.77304986195977,0.1,30,reviewed,tx,tx
+2026-10-16T21:17:26.449Z,52.4096,-168.0337,10,2.6,ml,20,225,0.753,0.51,us,us6000u3x3,2026-11-02T06:19:24.040Z,"81 km SE of Nikolski, Alaska",earthquake,3.11,1.984,0.115,10,reviewed,us,us
+2026-10-16T21:26:37.687Z,-23.7529,-179.7615,528.936,4.5,mb,34,169,6.318,0.81,us,us6000u2w7,2026-11-03T04:25:33.040Z,"south of the Fiji Islands",earthquake,15.4,9.835,0.099,30,reviewed,us,us
+2026-10-16T21:30:26.065Z,27.6967,57.2734,10,4.5,mb,50,156,2.903,0.77,us,us6000u2w9,2026-11-03T04:29:44.040Z,"65 km NNE of Mīnāb, Iran",earthquake,12.25,1.914,0.08,46,reviewed,us,us
+2026-10-16T21:39:06.819Z,61.587,-150.96,69.4,2.6,ml,93,34,0.2,0.7,ak,aka2026unpnov,2026-10-21T19:23:12.557Z,"24 km WNW of Susitna, Alaska",earthquake,2,2.22,0.2,62,reviewed,ak,ak
+2026-10-16T21:47:00.086Z,-24.1856,-67.2021,171.083,4.4,mb,28,94,1.52,0.82,us,us6000u2wc,2026-11-03T04:36:58.040Z,"89 km W of San Antonio de los Cobres, Argentina",earthquake,8.74,8.804,0.189,8,reviewed,us,us
+2026-10-16T22:05:53.308Z,51.405,-177.509,20.4,2.5,ml,21,222,0.4,0.3,ak,aka2026unqnhx,2026-10-21T19:27:06.525Z,"79 km SW of Adak, Alaska",earthquake,8.7,6.8059,0.2,16,reviewed,ak,ak
+2026-10-16T22:21:43.131Z,54.516,-160.324,7.7,2.7,ml,11,276,1.1,0.5,ak,aka2026unrbcc,2026-10-21T19:30:45.716Z,"91 km S of Sand Point, Alaska",earthquake,10.4,5.7842,0.1,7,reviewed,ak,ak
+2026-10-16T22:27:18.302Z,-8.41,117.8771,133.032,4,mb,20,139,3.853,0.37,us,us6000u4es,2026-11-03T05:15:05.040Z,"43 km E of Pototano, Indonesia",earthquake,12.64,8.715,0.143,15,reviewed,us,us
+2026-10-16T22:29:29.181Z,32.5197,-104.6518,3.72,2.5,ml,33,70,0.079,0.48,us,us6000u2wk,2026-11-03T05:17:09.040Z,"33 km SSE of Hope, New Mexico",earthquake,2.75,6.945,0.05,52,reviewed,us,us
+2026-10-16T22:41:03.663Z,7.65,-80.9667,10,4.6,mww,55,126,1.876,0.81,us,us6000u2wn,2026-11-03T05:39:55.674Z,"7 km S of Tebario, Panama",earthquake,5.89,1.884,0.078,16,reviewed,us,us
+2026-10-16T23:06:28.801Z,31.4181,77.7287,29.899,4.3,mb,44,95,4.375,0.56,us,us6000u2wp,2026-11-03T05:48:46.462Z,"9 km ESE of Rāmpur, India",earthquake,10.74,5.824,0.104,26,reviewed,us,us
+2026-10-16T23:20:54.260Z,51.033,-178.321,8.5,2.7,ml,15,229,0.8,0.8,ak,aka2026untajl,2026-10-21T19:56:45.488Z,"150 km SW of Adak, Alaska",earthquake,7.7,3.3609,0.1,10,reviewed,ak,ak
+2026-10-16T23:24:43.650Z,51.6813,-173.7808,24.875,3,ml,13,210,0.581,0.39,us,us6000u3xe,2026-11-02T06:10:48.040Z,"64 km SSE of Atka, Alaska",earthquake,3.98,10.381,0.105,12,reviewed,us,us
+2026-10-16T23:35:03.465Z,32.381,-104.4685,5.767,2.5,ml,37,73,0.2,0.5,us,us6000u2wr,2026-11-03T05:49:26.040Z,"22 km W of Carlsbad, New Mexico",earthquake,2.49,6.427,0.077,22,reviewed,us,us
+2026-10-16T23:57:50.582Z,38.2992,20.6656,10,4.3,mwr,70,84,1.493,1.04,us,us6000u2ww,2026-11-03T05:57:08.665Z,"5 km NNE of Sámi, Greece",earthquake,4.63,1.869,0.06,27,reviewed,us,us
