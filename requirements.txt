@@ -2,7 +2,7 @@ pandas==3.1.0
 requests==2.34.2
 plotly==7.1.0
 streamlit==1.66.1
-jupyter-core==5.8.1
+jupyter-core==5.9.1
 nbconvert==7.17.2
 nbformat==5.11.1
 ipykernel==7.4.0
