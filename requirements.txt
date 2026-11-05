@@ -5,5 +5,5 @@ streamlit==1.66.1
 jupyter-core==5.8.1
 nbconvert==7.17.2
 nbformat==5.11.1
-ipykernel==6.29.5
+ipykernel==7.4.0
 pillow==13.0.0
