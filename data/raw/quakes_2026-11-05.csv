@@ -1,4 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2026-11-05T00:23:17.796Z,38.0156,30.0682,10,4.1,mb,31,58,1.271,1.18,us,us7000tw4z,2026-11-05T00:38:54.040Z,"10 km WSW of Dinar, Turkey",earthquake,4.79,1.933,0.174,9,reviewed,us,us
+2026-11-05T00:23:17.796Z,38.0156,30.0682,10,4.1,mb,31,58,1.271,1.18,us,us7000tw4z,2026-11-05T06:39:34.713Z,"10 km WSW of Dinar, Turkey",earthquake,4.79,1.933,0.174,9,reviewed,us,us
 2026-11-05T00:49:15.589Z,32.5065,94.1224,10,4.1,mb,25,106,8.64,0.77,us,us7000tw53,2026-11-05T01:03:27.040Z,"226 km ENE of Nagqu, China",earthquake,13.14,1.965,0.117,20,reviewed,us,us
 2026-11-05T01:07:21.383Z,60.171,-152.545,105.5,2.5,ml,74,61,0.2,0.6,ak,aka2026vwyznm,2026-11-05T01:11:36.172Z,"50 km WNW of Ninilchik, Alaska",earthquake,3.6,1.8131,0.4,48,automatic,ak,ak
+2026-11-05T03:43:29.333Z,60.295,-150.831,63.9,2.5,ml,79,91,0.5,0.7,ak,aka2026vxeeuz,2026-11-05T03:46:16.230Z,"23 km S of Funny River, Alaska",earthquake,2.3,3.0452,0.1,41,automatic,ak,ak
+2026-11-05T04:20:56.986Z,60.303,-150.78,64.5,3.1,ml,144,72,0.3,0.7,ak,aka2026vxflhk,2026-11-05T04:54:58.040Z,"22 km S of Funny River, Alaska",earthquake,1.8,2.2401,0.1,98,automatic,ak,ak
+2026-11-05T04:56:02.670Z,40.407333333333,-125.58533333333,10,4.96,mw,134,246,0.9487,0.37,nc,nc75462637,2026-11-05T13:56:14.011Z,"111 km W of Petrolia, CA",earthquake,1.29,31.61,,39,reviewed,nc,nc
+2026-11-05T09:22:32.714Z,-3.4641,32.149,10,5.1,mb,46,62,5.602,0.64,us,us7000tw76,2026-11-05T13:53:22.040Z,"19 km NNW of Masumbwe, Tanzania",earthquake,10.46,1.871,0.073,60,reviewed,us,us
+2026-11-05T09:34:42.805Z,56.589,-154.938,51.9,2.6,ml,34,186,0.4,0.7,ak,aka2026vxpxjd,2026-11-05T09:36:51.711Z,"61 km SW of Akhiok, Alaska",earthquake,8,7.4296,0.1,20,automatic,ak,ak
+2026-11-05T10:09:33.723Z,49.2594,147.7534,554.419,4.8,mb,96,55,4.06,0.67,us,us7000tw7b,2026-11-05T10:24:31.040Z,"Sea of Okhotsk",earthquake,10.5,7.92,0.026,461,reviewed,us,us
+2026-11-05T10:31:13.330Z,35.6135,-98.04516667,6.63,2.75,ml,95,37,0,0.15,ok,ok2026vrnt,2026-11-05T13:00:54.383Z,"6 km ENE of Calumet, Oklahoma",earthquake,,0.2,0.29,38,reviewed,ok,ok
+2026-11-05T13:37:07.100Z,18.242833333333,-66.424666666667,35.08,2.78,md,21,59,0.09564,0.19,pr,pr71538523,2026-11-05T14:01:07.110Z,"3 km WNW of Orocovis, Puerto Rico",earthquake,0.51,0.74,0.16963578640962,14,reviewed,pr,pr

@@ -22,12 +22,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-11-04T08:34:33.730Z,63.496,-147.461,5,3.2,ml,108,17,0.4,1.3,ak,aka2026vvrwqb,2026-11-04T09:43:11.040Z,"75 km E of Cantwell, Alaska",earthquake,1.7,,0.2,75,automatic,ak,ak
 2026-11-04T10:17:33.908Z,31.88,-101.738,7.1045,2.5,ml,47,53,0.1,0.1,tx,tx2026vsikdc,2026-11-04T15:30:32.607Z,"24 km W of Garden City, Texas",earthquake,0.58065588876558,1.9163477965775,0.2,28,reviewed,tx,tx
 2026-11-04T11:15:40.351Z,57.027,-156.155,3.3,2.5,ml,25,213,0.6,0.6,ak,aka2026vvxgii,2026-11-04T11:17:12.101Z,"92 km SE of Ugashik, Alaska",earthquake,8.4,3.2349,0.1,12,automatic,ak,ak
-2026-11-04T11:53:35.500Z,38.5195,-112.91966666667,3.82,2.53,ml,30,57,0.01942,0.09,uu,uu80162776,2026-11-04T14:29:41.355Z,"15 km NNE of Milford, Utah",earthquake,0.22,0.35,0.23087892735958,16,reviewed,uu,uu
-2026-11-04T12:12:50.864Z,61.047,-151.217,75.8,2.8,ml,83,32,0.3,0.7,ak,aka2026vvzdxb,2026-11-04T12:16:05.933Z,"4 km WSW of Tyonek, Alaska",earthquake,2.2,2.1564,0.3,48,automatic,ak,ak
+2026-11-04T11:53:35.500Z,38.5195,-112.91966666667,3.82,2.53,ml,30,57,0.01942,0.09,uu,uu80162776,2026-11-05T09:56:15.040Z,"15 km NNE of Milford, Utah",earthquake,0.22,0.35,0.23087892735958,16,reviewed,uu,uu
+2026-11-04T12:12:50.864Z,61.047,-151.217,75.8,2.8,ml,83,32,0.3,0.7,ak,aka2026vvzdxb,2026-11-05T10:08:08.040Z,"4 km WSW of Tyonek, Alaska",earthquake,2.2,2.1564,0.3,48,automatic,ak,ak
 2026-11-04T12:14:45.921Z,-5.4706,152.0301,10,4.3,mb,10,181,1.278,0.56,us,us7000tvxj,2026-11-04T14:03:56.040Z,"127 km SSW of Kokopo, Papua New Guinea",earthquake,9.56,1.972,0.201,7,reviewed,us,us
-2026-11-04T12:22:50.918Z,52.208,-168.733,12.6,4.2,ml,62,217,0.8,1,ak,aka2026vvzmnn,2026-11-04T17:21:48.010Z,"81 km S of Nikolski, Alaska",earthquake,4.2,2.5696,0.2,42,reviewed,ak,ak
+2026-11-04T12:22:50.079Z,52.2397,-168.764,11.588,4.3,mb,123,137,0.736,1.01,us,us7000tvxn,2026-11-05T11:09:34.040Z,"78 km S of Nikolski, Alaska",earthquake,4.14,4.744,0.062,74,reviewed,us,us
 2026-11-04T14:59:59.236Z,58.862,-153.022,68.7,2.5,ml,30,78,0.3,0.7,ak,aka2026vwesvb,2026-11-04T19:07:12.160Z,"83 km SW of Nanwalek, Alaska",earthquake,4.3,3.8743,0.2,18,reviewed,ak,ak
-2026-11-04T16:59:23.360Z,19.4396,-68.1008,11,4.21,md,26,202,0.9673,0.65,pr,pr2026308001,2026-11-04T20:17:54.789Z,"100 km NNE of Punta Cana, Dominican Republic",earthquake,2.78,3.72,0.11,14,reviewed,pr,pr
+2026-11-04T16:59:23.360Z,19.4396,-68.1008,11,4.21,md,26,202,0.9673,0.65,pr,pr2026308001,2026-11-05T12:14:59.868Z,"100 km NNE of Punta Cana, Dominican Republic",earthquake,2.78,3.72,0.11,14,reviewed,pr,pr
 2026-11-04T17:09:51.240Z,19.4948,-68.0753,10,3.49,md,8,225,1.1315,0.49,pr,pr2026308002,2026-11-04T22:40:43.040Z,"106 km NNE of Punta Cana, Dominican Republic",earthquake,5.3,5.14,0.07,6,reviewed,pr,pr
 2026-11-04T17:28:36.393Z,63.368,-151.802,1,2.5,ml,31,38,0.1,0.9,ak,aka2026vwjrrv,2026-11-04T17:30:11.212Z,"19 km SSW of Denali National Park, Alaska",earthquake,2.5,2.2599,0.2,6,automatic,ak,ak
 2026-11-04T18:54:49.398Z,36.446,70.7177,199.264,4.2,mb,41,87,2.32,0.86,us,us7000tw2x,2026-11-04T22:59:59.040Z,"47 km SSW of Jurm, Afghanistan",earthquake,7.34,7.768,0.092,36,reviewed,us,us
