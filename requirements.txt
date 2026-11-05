@@ -4,6 +4,6 @@ plotly==5.24.1
 streamlit==1.66.1
 jupyter-core==5.8.1
 nbconvert==7.17.1
-nbformat==5.10.4
+nbformat==5.11.1
 ipykernel==6.29.5
 pillow==13.0.0
