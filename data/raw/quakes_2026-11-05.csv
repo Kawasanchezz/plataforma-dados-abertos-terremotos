@@ -1,12 +1,30 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2026-11-05T00:23:17.796Z,38.0156,30.0682,10,4.1,mb,31,58,1.271,1.18,us,us7000tw4z,2026-11-05T06:39:34.713Z,"10 km WSW of Dinar, Turkey",earthquake,4.79,1.933,0.174,9,reviewed,us,us
 2026-11-05T00:49:15.589Z,32.5065,94.1224,10,4.1,mb,25,106,8.64,0.77,us,us7000tw53,2026-11-05T01:03:27.040Z,"226 km ENE of Nagqu, China",earthquake,13.14,1.965,0.117,20,reviewed,us,us
-2026-11-05T01:07:21.383Z,60.171,-152.545,105.5,2.5,ml,74,61,0.2,0.6,ak,aka2026vwyznm,2026-11-05T01:11:36.172Z,"50 km WNW of Ninilchik, Alaska",earthquake,3.6,1.8131,0.4,48,automatic,ak,ak
+2026-11-05T01:07:21.220Z,60.165,-152.577,106.4,2.6,ml,80,61,0.2,0.6,ak,aka2026vwyznm,2026-11-05T16:12:33.546Z,"52 km WNW of Ninilchik, Alaska",earthquake,3.1,1.7461,0.3,53,reviewed,ak,ak
+2026-11-05T01:35:51.731Z,-40.6911,-87.6046,10,4.5,mb,17,194,9.921,0.72,us,us7000twh9,2026-11-06T13:40:20.040Z,"West Chile Rise",earthquake,8.62,1.967,0.131,17,reviewed,us,us
 2026-11-05T03:43:29.333Z,60.295,-150.831,63.9,2.5,ml,79,91,0.5,0.7,ak,aka2026vxeeuz,2026-11-05T03:46:16.230Z,"23 km S of Funny River, Alaska",earthquake,2.3,3.0452,0.1,41,automatic,ak,ak
 2026-11-05T04:20:56.986Z,60.303,-150.78,64.5,3.1,ml,144,72,0.3,0.7,ak,aka2026vxflhk,2026-11-05T04:54:58.040Z,"22 km S of Funny River, Alaska",earthquake,1.8,2.2401,0.1,98,automatic,ak,ak
-2026-11-05T04:56:02.670Z,40.407333333333,-125.58533333333,10,4.96,mw,134,246,0.9487,0.37,nc,nc75462637,2026-11-05T13:56:14.011Z,"111 km W of Petrolia, CA",earthquake,1.29,31.61,,39,reviewed,nc,nc
-2026-11-05T09:22:32.714Z,-3.4641,32.149,10,5.1,mb,46,62,5.602,0.64,us,us7000tw76,2026-11-05T13:53:22.040Z,"19 km NNW of Masumbwe, Tanzania",earthquake,10.46,1.871,0.073,60,reviewed,us,us
+2026-11-05T04:38:13.455Z,53.733,-157.175,20,3.5,ml,29,253,2.3,1.3,ak,aka2026vxgahe,2026-11-05T16:27:09.578Z,"273 km SSE of Perryville, Alaska",earthquake,6.6,0,0.1,18,reviewed,ak,ak
+2026-11-05T04:56:02.670Z,40.407333333333,-125.58533333333,10,4.96,mw,134,246,0.9487,0.37,nc,nc75462637,2026-11-06T13:44:48.718Z,"111 km W of Petrolia, CA",earthquake,1.29,31.61,,39,reviewed,nc,nc
+2026-11-05T08:32:02.979Z,53.2629,-166.4986,40.642,3.9,mb,45,164,0.567,0.88,us,us7000twb4,2026-11-06T06:33:02.040Z,"68 km S of Unalaska, Alaska",earthquake,4.16,15.921,0.195,7,reviewed,us,us
+2026-11-05T08:59:29.792Z,52.1582,-169.9839,43.01,3.6,mb,27,216,0.637,1.21,us,us7000twbb,2026-11-06T06:40:23.040Z,"115 km SW of Nikolski, Alaska",earthquake,6.97,16.097,0.177,8,reviewed,us,us
+2026-11-05T09:14:44.860Z,52.232,-170.105,24.5,3.8,ml,39,211,0.6,1.2,ak,aka2026vxpfze,2026-11-05T19:14:19.793Z,"115 km SW of Nikolski, Alaska",earthquake,8,3.6005,0.1,31,reviewed,ak,ak
+2026-11-05T09:22:32.714Z,-3.4641,32.149,10,5.1,mb,46,62,5.602,0.64,us,us7000tw76,2026-11-05T17:55:29.804Z,"19 km NNW of Masumbwe, Tanzania",earthquake,10.46,1.871,0.073,60,reviewed,us,us
 2026-11-05T09:34:42.805Z,56.589,-154.938,51.9,2.6,ml,34,186,0.4,0.7,ak,aka2026vxpxjd,2026-11-05T09:36:51.711Z,"61 km SW of Akhiok, Alaska",earthquake,8,7.4296,0.1,20,automatic,ak,ak
+2026-11-05T09:44:23.400Z,52.193,-170.152,20.4,3.2,ml,29,213,0.6,1.1,ak,aka2026vxqftg,2026-11-05T21:05:06.029Z,"120 km SW of Nikolski, Alaska",earthquake,7.8,3.7994,0.1,19,reviewed,ak,ak
+2026-11-05T09:45:20.748Z,52.217,-170.133,32.3,3.5,ml,26,213,0.6,1.1,ak,aka2026vxqfum,2026-11-05T19:25:22.178Z,"117 km SW of Nikolski, Alaska",earthquake,9.7,5.7019,0.1,19,reviewed,ak,ak
+2026-11-05T09:48:05.032Z,52.13,-170.052,19.4,3.4,ml,29,217,0.7,1.1,ak,aka2026vxqixu,2026-11-05T21:10:36.484Z,"120 km SW of Nikolski, Alaska",earthquake,7.3,3.3714,0.2,22,reviewed,ak,ak
 2026-11-05T10:09:33.723Z,49.2594,147.7534,554.419,4.8,mb,96,55,4.06,0.67,us,us7000tw7b,2026-11-05T10:24:31.040Z,"Sea of Okhotsk",earthquake,10.5,7.92,0.026,461,reviewed,us,us
 2026-11-05T10:31:13.330Z,35.6135,-98.04516667,6.63,2.75,ml,95,37,0,0.15,ok,ok2026vrnt,2026-11-05T13:00:54.383Z,"6 km ENE of Calumet, Oklahoma",earthquake,,0.2,0.29,38,reviewed,ok,ok
 2026-11-05T13:37:07.100Z,18.242833333333,-66.424666666667,35.08,2.78,md,21,59,0.09564,0.19,pr,pr71538523,2026-11-05T14:01:07.110Z,"3 km WNW of Orocovis, Puerto Rico",earthquake,0.51,0.74,0.16963578640962,14,reviewed,pr,pr
+2026-11-05T16:56:25.875Z,35.6318,77.9399,76.944,5,mb,75,59,5.121,1.02,us,us7000tw8p,2026-11-06T07:36:40.750Z,"130 km NE of Thang, India",earthquake,7.77,6.848,0.053,113,reviewed,us,us
+2026-11-05T17:21:45.305Z,-21.1984,-178.7145,535,6.1,mww,155,33,4.593,0.71,us,us7000tw8r,2026-11-06T07:23:12.040Z,"Fiji region",earthquake,9.82,1.89,0.038,67,reviewed,us,us
+2026-11-05T18:05:43.367Z,37.9934,141.2636,87.44,4.6,mb,99,91,2.796,0.68,us,us7000twaq,2026-11-06T11:26:53.398Z,"36 km E of Watari, Japan",earthquake,8.63,5.991,0.054,102,reviewed,us,us
+2026-11-05T18:59:01.729Z,31.6233,49.1549,10,4.4,mb,50,67,4.405,0.75,us,us7000twb9,2026-11-05T21:35:50.040Z,"37 km SSW of Masjed Soleymān, Iran",earthquake,7.9,1.88,0.097,31,reviewed,us,us
+2026-11-05T20:50:33.376Z,61.813,-150.925,68.1,2.5,ml,75,43,0.5,0.7,ak,aka2026vymljb,2026-11-05T22:23:45.221Z,"31 km SE of Skwentna, Alaska",earthquake,2,3.1556,0.2,51,automatic,ak,ak
+2026-11-05T22:33:58.466Z,62.49,-148.233,48.2,2.7,ml,97,18,0.4,0.7,ak,aka2026vypwpu,2026-11-05T23:06:35.040Z,"78 km N of Chickaloon, Alaska",earthquake,1.9,3.9721,0.2,62,automatic,ak,ak
+2026-11-05T22:34:48.173Z,-23.5322,179.9392,523.445,4.6,mb,38,83,6.002,0.65,us,us7000twcy,2026-11-05T22:53:48.040Z,"south of the Fiji Islands",earthquake,12.31,7.022,0.044,155,reviewed,us,us
+2026-11-05T23:04:57.395Z,53.5527,-162.9503,16.134,4.6,mb,52,161,1.335,0.87,us,us7000twd4,2026-11-06T01:10:30.729Z,"147 km SSE of False Pass, Alaska",earthquake,6.41,5.492,0.052,113,reviewed,us,us
+2026-11-05T23:09:33.360Z,17.8445,-66.407833333333,9.29,2.95,md,15,215,0.1206,0.17,pr,pr71538538,2026-11-05T23:32:38.550Z,"13 km S of Santa Isabel, Puerto Rico",earthquake,0.56,0.69,0.0051072344327703,4,reviewed,pr,pr
+2026-11-05T23:29:25.341Z,53.654,-162.8292,10,3.6,ml,36,226,1.129,0.83,us,us7000twdf,2026-11-06T00:43:18.040Z,"138 km SSE of False Pass, Alaska",earthquake,4.61,2.005,0.094,15,reviewed,us,us
